@@ -4,6 +4,13 @@
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="tree/main/asset/exail-header-quantum-metrology-instruments_1200x630.png" height="500" width="500" /></a>
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="tree/main/asset/ImageForArticle_88_17256255059219994.png" height="500" width="500" /></a>
 </div>
+<!-- Logo: -->
+<div align="center">
+    <img src="Quantum-Workshop-QGSS1/asset/quantum1.png" height="400" width="400" alt="Logo">
+    <img src="Quantum-Workshop-QGSS1/asset/quantum2.png" height="400" width="400" alt="Logo">
+    <img src="Quantum-Workshop-QGSS1/asset/exail-header-quantum-metrology-instruments_1200x630.png" height="400" width="400" alt="Logo">
+    <img src="Quantum-Workshop-QGSS1/asset/tree/main/asset/ImageForArticle_88_17256255059219994.png" height="500" width="500" alt="Logo">
+</div>
 
 # QGSS 2025 Quantum Workshop
 Quantum Computation Challenge (Lab 1~4)
