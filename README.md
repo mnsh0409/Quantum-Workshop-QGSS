@@ -9,7 +9,7 @@
     <img src="Quantum-Workshop-QGSS1/asset/quantum1.jpg" height="400" width="400" alt="Logo">
     <img src="Quantum-Workshop-QGSS1/asset/quantum2.jpg" height="400" width="400" alt="Logo">
     <img src="Quantum-Workshop-QGSS1/asset/exail-header-quantum-metrology-instruments_1200x630.jpg" height="400" width="400" alt="Logo">
-    <img src="Quantum-Workshop-QGSS1/asset/tree/main/asset/ImageForArticle_88_17256255059219994.jpg" height="500" width="500" alt="Logo">
+    <img src="Quantum-Workshop-QGSS1/asset/ImageForArticle_88_17256255059219994.jpg" height="500" width="500" alt="Logo">
 </div>
 
 # QGSS 2025 Quantum Workshop
