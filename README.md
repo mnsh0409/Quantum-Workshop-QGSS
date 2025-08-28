@@ -1,15 +1,5 @@
 <div align="center">
-  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum1.jpg" height="500" width="500" /></a>
-  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum2.jpg" height="500" width="500" /></a>
-  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/exail-header-quantum-metrology-instruments_1200x630.jpg" height="500" width="500" /></a>
-  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/ImageForArticle_88_17256255059219994.webp" height="500" width="500" /></a>
-</div>
-<!-- Logo: -->
-<div align="center">
-    <img src="Quantum-Workshop-QGSS1/asset/quantum1.jpg" height="400" width="400" alt="Logo">
-    <img src="Quantum-Workshop-QGSS1/asset/quantum2.jpg" height="400" width="400" alt="Logo">
-    <img src="Quantum-Workshop-QGSS1/asset/exail-header-quantum-metrology-instruments_1200x630.jpg" height="400" width="400" alt="Logo">
-    <img src="Quantum-Workshop-QGSS1/asset/ImageForArticle_88_17256255059219994.jpg" height="500" width="500" alt="Logo">
+  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum1.jpg" height="500" width="500" /></a
 </div>
 
 # QGSS 2025 Quantum Workshop
