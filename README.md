@@ -2,7 +2,7 @@
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum1.jpg" height="500" width="500" /></a>
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum2.jpg" height="500" width="500" /></a>
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/exail-header-quantum-metrology-instruments_1200x630.jpg" height="500" width="500" /></a>
-  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/ImageForArticle_88_17256255059219994.jpg" height="500" width="500" /></a>
+  <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/ImageForArticle_88_17256255059219994.webp" height="500" width="500" /></a>
 </div>
 <!-- Logo: -->
 <div align="center">
