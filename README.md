@@ -122,33 +122,6 @@ This track showcases how to solve complex problems using high-level abstractions
 * **[Grover's Algorithm Tutorial](https://github.com/Bumsparkle/Grovers-Algorithm-Tutorial/blob/main/grovers_algorithm_tutorial.ipynb):** A tutorial on Grover's search algorithm.
 * **[CHSH Game Tutorial](https://github.com/lakshmi-yendapalli/CHSH_game_tutorial/tree/main):** A tutorial on the CHSH game, a test of Bell's theorem.
 
-### Community Labs Overview
-
-These labs are contributions from the Qiskit community, offering additional tutorials and explorations in quantum computing.
-
-#### QEC - Surface-17 Code Tutorial
-
-* **Source:** [TheSonOfKrypton/FLIQ-Hackathon-2025/blob/main/QEC - Surface-17 Code.ipynb](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025/blob/main/QEC%20-%20Surface-17%20Code.ipynb)
-* **Description:** This notebook likely provides a tutorial on Quantum Error Correction, focusing on the **Surface-17 Code**. It would cover the principles of this topological code, its stabilizers, and how to implement basic encoding, error detection, and correction operations.
-    
-
-#### QGSS25 Lab (Generic)
-
-* **Source:** [mk0dz/qgss25/blob/main/lab.ipynb](https://github.com/mk0dz/qgss25/blob/main/lab.ipynb)
-* **Description:** A general lab from the Qiskit Global Summer School 2025, likely covering foundational Qiskit concepts, circuit building, and basic quantum algorithms. The specific content would vary but typically includes setup, basic gates, and measurement.
-
-#### Grover's Algorithm Tutorial
-
-* **Source:** [Bumsparkle/Grovers-Algorithm-Tutorial/blob/main/grovers_algorithm_tutorial.ipynb](https://github.com/Bumsparkle/Grovers-Algorithm-Tutorial/blob/main/grovers_algorithm_tutorial.ipynb)
-* **Description:** This tutorial notebook guides users through **Grover's Algorithm**, a quantum algorithm for unstructured search. It would explain the core concepts of superposition, entanglement, and interference as applied to searching a database, with practical Qiskit implementations.
-    
-
-#### CHSH Game Tutorial
-
-* **Source:** [lakshmi-yendapalli/CHSH_game_tutorial/tree/main](https://github.com/lakshmi-yendapalli/CHSH_game_tutorial/tree/main)
-* **Description:** This repository contains a tutorial on the **CHSH (Clauser-Horne-Shimony-Holt) game**, a fundamental experiment in quantum mechanics that demonstrates Bell's theorem and quantum entanglement. It would likely involve implementing quantum circuits for Alice and Bob's strategies and analyzing the win probabilities.
-    
-
 ---
 
 ## Lab Exercises Overview
@@ -371,6 +344,33 @@ This lab focuses on using the QEDMA QESEM function.
 This lab explores the Qunova Hi-VQE function.
 * **Goal:** (Details would be extracted from `qunova_hi-vqe.ipynb`)
 
+
+### Community Labs Overview
+
+These labs are contributions from the Qiskit community, offering additional tutorials and explorations in quantum computing.
+
+#### QEC - Surface-17 Code Tutorial
+
+* **Source:** [TheSonOfKrypton/FLIQ-Hackathon-2025/blob/main/QEC - Surface-17 Code.ipynb](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025/blob/main/QEC%20-%20Surface-17%20Code.ipynb)
+* **Description:** This notebook likely provides a tutorial on Quantum Error Correction, focusing on the **Surface-17 Code**. It would cover the principles of this topological code, its stabilizers, and how to implement basic encoding, error detection, and correction operations.
+    
+
+#### QGSS25 Lab (Generic)
+
+* **Source:** [mk0dz/qgss25/blob/main/lab.ipynb](https://github.com/mk0dz/qgss25/blob/main/lab.ipynb)
+* **Description:** A general lab from the Qiskit Global Summer School 2025, likely covering foundational Qiskit concepts, circuit building, and basic quantum algorithms. The specific content would vary but typically includes setup, basic gates, and measurement.
+
+#### Grover's Algorithm Tutorial
+
+* **Source:** [Bumsparkle/Grovers-Algorithm-Tutorial/blob/main/grovers_algorithm_tutorial.ipynb](https://github.com/Bumsparkle/Grovers-Algorithm-Tutorial/blob/main/grovers_algorithm_tutorial.ipynb)
+* **Description:** This tutorial notebook guides users through **Grover's Algorithm**, a quantum algorithm for unstructured search. It would explain the core concepts of superposition, entanglement, and interference as applied to searching a database, with practical Qiskit implementations.
+    
+
+#### CHSH Game Tutorial
+
+* **Source:** [lakshmi-yendapalli/CHSH_game_tutorial/tree/main](https://github.com/lakshmi-yendapalli/CHSH_game_tutorial/tree/main)
+* **Description:** This repository contains a tutorial on the **CHSH (Clauser-Horne-Shimony-Holt) game**, a fundamental experiment in quantum mechanics that demonstrates Bell's theorem and quantum entanglement. It would likely involve implementing quantum circuits for Alice and Bob's strategies and analyzing the win probabilities.
+    
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
