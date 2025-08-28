@@ -2,6 +2,7 @@
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum1.jpg" height="500" width="500" /></a
 </div>
 
+<div>
 # QGSS 2025 Quantum Workshop
 Quantum Computation Challenge (Lab 1~4)
 =======
@@ -337,3 +338,4 @@ This lab explores the Qunova Hi-VQE function.
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+</div>
