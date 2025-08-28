@@ -2,10 +2,11 @@
   <a href="https://github.com/mnsh0409/Quantum-Workshop-QGSS"><img src="asset/quantum1.jpg" height="500" width="500" /></a
 </div>
 
-<div align="left">
 # QGSS 2025 Quantum Workshop
 Quantum Computation Challenge (Lab 1~4)
 =======
+
+<div align="left">
 Qiskit Global Summer School: The Past, Present and Future of Quantum Computing
 
 # Launch on qBraid
