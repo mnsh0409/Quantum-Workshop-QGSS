@@ -112,7 +112,7 @@ This track showcases how to solve complex problems using high-level abstractions
     * `qedma/qedma_qesem.ipynb`: Lab on QEDMA QESEM.
     * `qunova/qunova_hi-vqe.ipynb`: Lab on Qunova Hi-VQE.
 * `TEM_lab_validation.py`, `grader.py`, `grader_iskay.py`: Grader scripts for various labs.
-* `mnsh0409/quantum-workshop-qgss/Quantum-Workshop-QGSS-cfb60330704607adf08ae81978e078beb252ff4f/`: Original workshop files (including PDFs, other language versions, etc.).
+* `mnsh0409/quantum-workshop-qgss/Quantum-Workshop-QGSS/*lab*/`: Original workshop files (including PDFs, other language versions, etc.).
 
 ---
 
