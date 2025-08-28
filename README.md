@@ -1,5 +1,8 @@
 <div align="center">
-  <a href="https://github.com/Quantum-Workshop-QGSS"><img src="assets/QuCAI-Lab.png" height="500" width="500" /></a>
+  <a href="https://github.com/Quantum-Workshop-QGSS"><img src="assets/quantum1.png" height="500" width="500" /></a>
+  <a href="https://github.com/Quantum-Workshop-QGSS"><img src="assets/quantum2.png" height="500" width="500" /></a>
+  <a href="https://github.com/Quantum-Workshop-QGSS"><img src="assets/exail-header-quantum-metrology-instruments_1200x630.png" height="500" width="500" /></a>
+  <a href="https://github.com/Quantum-Workshop-QGSS"><img src="assets/ImageForArticle_88_17256255059219994.png" height="500" width="500" /></a>
 </div>
 
 # QGSS 2025 Quantum Workshop
